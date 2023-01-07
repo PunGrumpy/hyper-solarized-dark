@@ -1,6 +1,5 @@
-// const backgroundColor = "#001B21";
+const backgroundColor = "#001B21";
 const foregroundColor = "#839496";
-// const cursorColor = 'rgba(181, 137, 0, 0.6)'
 const cursorColor = "#FFFFFF";
 const borderColor = "transparent";
 
